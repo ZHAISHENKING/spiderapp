@@ -9,7 +9,7 @@ chromedriver==2.24.1
 cssselect==1.0.3
 idna==2.6
 idna-ssl==1.0.1
-lxml==4.2.1
+lxml==4.6.5
 multidict==4.3.1
 redis==2.10.6
 requests==2.18.4
